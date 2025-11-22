@@ -453,8 +453,8 @@ AcmeVPN membership services follow priority and stacking rules:
 - **Basic principle**: Only one membership service is active at any given time;
 - **Priority order**:
   1. SVIP membership (paid SVIP) - highest priority;
-  2. VIP membership (including paid VIP and Referral Reward VIP);
-  3. Basic membership (advertisement reward membership) - lowest priority.
+  2. VIP membership (paid VIP only);
+  3. Basic membership (advertisement reward memberships, including Referral Reward Basic Membership) - lowest priority.
 - **Stacking rules**:
   - Same type memberships can stack, displaying total remaining time;
   - Different type memberships are used according to priority order;
@@ -1095,10 +1095,10 @@ Yes. Any user who registers successfully for the first time is entitled to a 3-d
 
 ### 8.2 What Rewards Are There for Referring Friends?
 We have a referral reward program:
-- **Referral rewards**: After successfully referring a new user who registers and makes their first payment, you can receive Referral Reward VIP duration;
-- **Reward benefits**: Referral Reward VIP enjoys complete VIP services (2 desktop devices + 2 mobile devices);
-- **Validity period calculation**: Referral Reward VIP follows the same rules as paid memberships, calculating complete 24-hour periods from the time received;
-- **Usage priority**: Referral Reward VIP is managed according to membership priority rules (see Membership Terms of Service);
+- **Referral rewards**: When the referred user makes their first VIP purchase, you receive 1 month of Basic Membership; when their first purchase is SVIP, you receive 2 months, both calculated in natural months;
+- **Reward benefits**: Referral Reward Basic Membership enjoys Basic Membership services (1 desktop device + 1 mobile device);
+- **Validity period calculation**: The gifted time is calculated from the effective time of the referred user's first paid membership and is not affected by later upgrades or downgrades;
+- **Usage priority**: Referral Reward Basic Membership is managed according to membership priority rules (see Membership Terms of Service);
 - **Specific rules**: For detailed referral rules and reward standards, please refer to the invite friends page within the app.
 
 ### 8.3 Can Minors Use AcmeVPN?

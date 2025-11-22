@@ -16,10 +16,11 @@ To ensure that you fully understand the rules governing our membership services,
 
 ## 0. Definitions
 To avoid ambiguity, the following definitions shall have the meanings set forth below:
-- **Membership Types**: Includes paid memberships (SVIP, VIP) and free memberships (Free Trial, Basic Membership, Referral Reward VIP).
-- **VIP**: Basic paid membership benefits. Referral Reward VIPs enjoy the same benefits as paid VIPs.
+- **Membership Types**: Includes paid memberships (SVIP, VIP) and free memberships (Free Trial, Basic Membership, Referral Reward Basic Membership).
+- **VIP**: Basic paid membership benefits.
 - **SVIP**: Premium paid membership benefits, offering faster speeds and additional device connections compared with VIP.
 - **Basic Membership**: Free membership obtained through advertisements or promotional activities, with benefits below VIP level.
+- **Referral Reward Basic Membership**: Earned by successfully referring new users who register and complete their first payment, offering the same benefits as Basic Membership.
 - **Free Trial**: A one-time 3-day free trial available to new users upon initial registration.
 - **Purchase Methods**: 
   - Subscription Purchase: Recurring billing via third-party payment platforms (e.g., Stripe) on a monthly, quarterly, or annual basis;
@@ -31,7 +32,7 @@ You may purchase membership services for your AcmeVPN account through the follow
 - **Free Trial**: New users are entitled to a one-time 3-day free trial upon first registration.
 - **Subscription Purchase**: You may purchase VIP or SVIP memberships on a monthly, quarterly, or annual basis.
 - **One-time Purchase**: You may purchase a fixed-term VIP or SVIP membership service by making a single payment.
-- **Referral Rewards**: By successfully referring a new user who registers and makes their first payment, you may receive additional membership duration as a reward. Please refer to the invitation page for detailed rules.
+- **Referral Rewards**: By successfully referring a new user who registers and makes their first payment, you may receive Basic Membership time based on that user's first paid membership: a first-time VIP purchase grants you 1 month of Basic Membership, and a first-time SVIP purchase grants you 2 months. The gifted duration is calculated in natural months from the effective time of that first purchase and is not affected by later upgrades or downgrades. Please refer to the invitation page for detailed rules.
 - **Purchase Restrictions**: When your subscription membership is still active, the system does not allow buying an additional one-time membership. Likewise, if a one-time membership has not yet expired, you cannot initiate a new subscription. Please wait until the current membership expires before switching purchase methods.
 
 ## 2. Membership Validity Period
@@ -61,9 +62,10 @@ When the target month does not have the activation date (e.g., monthly membershi
 **Basic Membership**:
 - The validity period is calculated continuously for 24 hours from the time of redemption.
 - **Example**: If you redeem a 1-day Basic membership at 2:00 PM (Singapore Standard Time) on February 1, 2025, it will expire at 2:00 PM on February 2, 2025.
-**Referral Reward VIP**:
-- The validity period is calculated continuously for 24 hours from the time the reward is granted (or longer, in multiples, if applicable).
-- **Example**: If you receive a 1-day Referral Reward VIP at 2:00 PM (Singapore Standard Time) on February 1, 2025, it will expire at 2:00 PM on February 2, 2025.
+**Referral Reward Basic Membership**:
+- When the referred user makes their first VIP purchase, the referrer receives 1 month of Basic Membership; when the first purchase is SVIP, the referrer receives 2 months.
+- The gifted duration is calculated in natural months from the time the referred user's first paid membership becomes effective. For example, if the referred user first purchases VIP at 10:00 AM (Singapore Standard Time) on February 1, 2025, the 1-month Basic Membership will expire at 10:00 AM on March 1, 2025.
+- The reward is determined solely by the initial purchase type and will not change due to subsequent upgrades, downgrades, or renewals.
 
 ### 2.3 Subscription Payments
 The billing date for subscription payments is subject to the rules of the payment platform (e.g., Stripe). However, membership validity periods shall be calculated according to these Membership Terms.
@@ -85,7 +87,7 @@ In addition to Paid Memberships, AcmeVPN also offers the following Free Reward M
 | Membership Type | Acquisition Method | Service Description | Device Connection Limit |
 |-----------------|-------------------|---------------------|------------------------|
 | **Basic Membership** | Obtained through watching advertisements or participating in activities on mobile devices (phones, tablets) | Enjoy basic membership services | 1 desktop device + 1 mobile device |
-| **Referral Reward VIP Membership** | Obtained by referring new users who successfully register and make their first payment | Enjoy full VIP membership privileges | 2 desktop devices + 2 mobile devices |
+| **Referral Reward Basic Membership** | Obtained by referring new users who successfully register and make their first payment | Enjoy Basic Membership services | 1 desktop device + 1 mobile device |
 
 ### 3.3 Membership Benefits Description
 To avoid inconsistencies due to untimely updates of these Membership Terms, the specific benefits, functions, and usage restrictions of memberships shall be subject to the latest descriptions on AcmeVPN product pages. If there is any discrepancy between the product pages and these Membership Terms, the product page shall prevail, without affecting the overall validity of these Membership Terms.
@@ -119,8 +121,8 @@ Only one membership service may be active at any given time.
 Remaining time for the same type of membership (e.g., multiple SVIPs or multiple VIPs) will be automatically combined for use.
 Different types of memberships will take effect in the following order of priority:
 1. **SVIP Membership** (paid SVIP)
-2. **VIP Membership** (including paid VIP and Referral Reward VIP)
-3. **Basic Membership**
+2. **VIP Membership** (paid VIP)
+3. **Basic Membership** (including Referral Reward Basic Membership)
 
 #### 6.3 Upgrade and Downgrade Rules
 #### 6.3.1 Upgrade Rules
