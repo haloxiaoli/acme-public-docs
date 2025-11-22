@@ -125,6 +125,7 @@ Different types of memberships will take effect in the following order of priori
 3. **Basic Membership** (including Referral Reward Basic Membership)
 
 #### 6.3 Upgrade and Downgrade Rules
+- The following upgrade and downgrade rules apply only to subscription purchases. One-time purchase memberships cannot be upgraded or downgraded; to change membership levels or durations you must wait for the current service to expire and then purchase a new plan.
 #### 6.3.1 Upgrade Rules
 - Users may upgrade their current subscription purchase by paying the corresponding price difference (these upgrade rules do not apply to one-time purchases). Upgrades are divided into the following two categories:
   - Type Upgrade (VIP → SVIP, same or longer duration)
