@@ -506,6 +506,7 @@ AcmeVPN offers two different membership purchase methods:
   - **Expiration reminder**: Manual repurchase required after membership expires;
   - **No upgrade/downgrade**: Cannot directly upgrade or downgrade—requires repurchase.
 - **Selection recommendation**: If you need long-term use, subscription purchase is recommended; if you use occasionally, one-time purchase can be selected.
+- **Purchase restriction**: You can only hold one active membership purchase type at a time. If a subscription membership is still active, you cannot buy an additional one-time membership, and if a one-time membership is active, you must wait for it to expire before starting a new subscription.
 
 ## 5. Connection and Usage
 

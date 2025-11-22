@@ -32,6 +32,7 @@ You may purchase membership services for your AcmeVPN account through the follow
 - **Subscription Purchase**: You may purchase VIP or SVIP memberships on a monthly, quarterly, or annual basis.
 - **One-time Purchase**: You may purchase a fixed-term VIP or SVIP membership service by making a single payment.
 - **Referral Rewards**: By successfully referring a new user who registers and makes their first payment, you may receive additional membership duration as a reward. Please refer to the invitation page for detailed rules.
+- **Purchase Restrictions**: When your subscription membership is still active, the system does not allow buying an additional one-time membership. Likewise, if a one-time membership has not yet expired, you cannot initiate a new subscription. Please wait until the current membership expires before switching purchase methods.
 
 ## 2. Membership Validity Period
 
