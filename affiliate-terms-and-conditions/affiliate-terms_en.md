@@ -8,16 +8,20 @@
 - **Language Version**: In the event of any inconsistency, the English version shall prevail.
 
 ## Preamble
+
 Welcome to the AcmeVPN Affiliate Marketing Program!
 
 These AcmeVPN Affiliate Marketing Terms and Conditions (hereinafter referred to as the "Terms") apply to all partners (hereinafter referred to as "Affiliate Members" or "you") participating in the affiliate marketing program (hereinafter referred to as the "Affiliate Program") provided by AcmeVPN (hereinafter referred to as "AcmeVPN", "we", or "the Company"). By joining this Affiliate Program, you may earn commissions by promoting AcmeVPN services.
 
 **Important Notice**:
+
 - By applying to join the Affiliate Program, you are deemed to have read, understood, and agreed to comply with these Terms and all documents related to AcmeVPN services, including but not limited to the Terms of Service and Privacy Policy.
 - The Affiliate Program and the "Referral Program" within the AcmeVPN client application are two independent programs with separate account systems and reward mechanisms. Affiliate Members may not participate in or enjoy any benefits or rewards provided by the "Referral Program" simultaneously.
 
 ## 0. Definitions
+
 To avoid ambiguity, the following definitions shall have the meanings set forth below:
+
 1. Affiliate Program: A performance-based promotional cooperation program initiated and managed by AcmeVPN, under which Affiliate Members promote AcmeVPN services through lawful channels and receive commissions based on promotional performance.
 2. Affiliate Member: An individual or entity that has officially joined the Affiliate Program, promotes AcmeVPN services in accordance with these Terms, and is eligible to receive commissions.
 3. Exclusive Affiliate Link: A dedicated tracking link generated and assigned by the AcmeVPN system to an Affiliate Member for promotional purposes, used to identify the sources and calculate corresponding commissions.
@@ -28,22 +32,28 @@ To avoid ambiguity, the following definitions shall have the meanings set forth 
 ## 1. Overview of the Affiliate Program
 
 ### 1.1 Program Introduction
-This Affiliate Program is a performance-based cooperation program. Affiliate Members may earn corresponding commissions by successfully referring new users who register and purchase AcmeVPN's membership services (including VIP and SVIP) through their Exclusive Affiliate Links.
+
+This Affiliate Program is a performance-based cooperation program. Affiliate Members may earn corresponding commissions by successfully referring new users who register and purchase AcmeVPN's membership services (including Pro and Premium) through their Exclusive Affiliate Links.
 
 ### 1.2 Principles of Cooperation
+
 This Affiliate Program operates based on the principles of legality, integrity, equality, and mutual benefit. Affiliate Members shall ensure that their promotional activities comply with applicable laws and these Terms. Any violations of law or breach of these Terms may result in termination of cooperation.
 
 ## 2. Application Eligibility and Requirements
 
 ### 2.1 Basic Eligibility
+
 To apply to become an Affiliate Member or participate in the Affiliate Program, the applicants must:
+
 - Be at least 18 years of age and possess full legal capacity.
 - Own lawful and valid promotional channels (websites, blogs, social media accounts, etc.).
 - Ensure promotional content complies with applicable laws, regulations, and public order and morality.
 - Possess lawful and valid payment accounts for receiving commissions.
 
 ### 2.2 Prohibited Conditions
+
 Applicants shall be ineligible to apply to become Affiliate Members or participate in the Affiliate Program under any of the following conditions:
+
 - Being an individual or organization engaged in illegal or irregular activities.
 - Using promotional channels involving pornography, violence, gambling, fraud, or other content.
 - Having previously been expelled by AcmeVPN or other affiliate programs.
@@ -51,7 +61,9 @@ Applicants shall be ineligible to apply to become Affiliate Members or participa
 - Being an individual or entity involved in money laundering, terrorist activities, or other activities that violate international sanctions.
 
 ### 2.3 Geographic Restrictions
+
 For legal compliance and commercial considerations, AcmeVPN currently does not accept applicants from:
+
 - Countries or regions under international sanctions.
 - Jurisdictions where local law expressly prohibits the promotion of VPN services or affiliate marketing activities.
 - Regions deemed to pose high political or economic risk.
@@ -59,7 +71,9 @@ For legal compliance and commercial considerations, AcmeVPN currently does not a
 AcmeVPN reserves the right to adjust the restriction list according to changes in legal policies. Applicants or Affiliate Members are prohibited from circumventing geographic restrictions through the use of fake addresses, proxy addresses, or other means. Any such attempt may result in immediate termination of the cooperation, clearance of account balances, and recovery of all paid commissions (if applicable).
 
 ### 2.4 Application Process
+
 Applicants interested in joining the Affiliate Program should visit the Affiliate Program page on the AcmeVPN official website to apply using their personal email address. When applying, applicants should submit the following materials or information:
+
 - Basic information and contact details of the individual or entity.
 - Description of promotional channels (website links, social media accounts, etc.).
 - Outline of expected promotional plans and strategies.
@@ -70,31 +84,36 @@ AcmeVPN will verify the authenticity and accuracy of the submitted materials pri
 ## 3. Commission Structure and Incentive Mechanism
 
 ### 3.1 Basic Commission
+
 - For new users who registered via your Exclusive Affiliate Link and successfully purchased a paid membership service for the first time, you will receive 40% of the actual payment amount for that order as commission (referred to as the "First Payment Commission").
 - For subsequent renewal orders from that user, you will receive 36% of the actual payment amount for the order as commission (referred to as the "Renewal Commission").
 - All commissions are calculated based on users' actual payment amounts. That is, when users receive a price reduction through promo codes, coupons, or discount activities, commissions are calculated based on the actual payment amount after the reduction. For example, if a new user purchases a package originally priced at $100 using a 20% discount, resulting in an actual payment amount of $80, the Affiliate Member will receive $32 as the First Payment Commission ($80 × 40%).
 
 ### 3.2 Monthly Performance Incentives
+
 To incentivize high-performing Affiliate Members, AcmeVPN has established a Monthly Performance Incentive mechanism. Eligible Affiliate Members may receive corresponding additional commissions in the following month based on the number of Valid Orders successfully promoted during the current month.
 
 #### 3.2.1 Statistical Period
+
 The statistical period for Monthly Performance Incentives is from 00:00 on the first day of the month to 23:59 on the last day of the month in Singapore Standard Time, calculated based on order generation time.
 
 #### 3.2.2 Incentive Implementation Rules
 
 | Number of Valid Orders in the Current Month | Additional Commission Rate For the following Month |
-|---------------------------|--------------------------------|
-| 50-99 orders | Additional +2.5% |
-| 100-149 orders | Additional +5% |
-| 150-199 orders | Additional +7.5% |
-| 200 orders and above | Additional +10% |
+| ------------------------------------------- | -------------------------------------------------- |
+| 50-99 orders                                | Additional +2.5%                                   |
+| 100-149 orders                              | Additional +5%                                     |
+| 150-199 orders                              | Additional +7.5%                                   |
+| 200 orders and above                        | Additional +10%                                    |
 
 **Example**: If you successfully promote 100 Valid Orders in January, all confirmed commissions in February will be increased by an additional 5% on top of the basic commission calculation. Therefore:
+
 - First Payment Commission: 45% of the users' actual payment amount (basic 40% + incentive 5%).
 - Renewal Commission: 41% of the users' actual payment amount (basic 36% + incentive 5%).
-**Important Note**: Monthly Performance Incentives are calculated based on all confirmed commissions in the following month and cannot be accumulated or transferred across months.
+  **Important Note**: Monthly Performance Incentives are calculated based on all confirmed commissions in the following month and cannot be accumulated or transferred across months.
 
 ### 3.3 Tracking and Attribution Mechanism
+
 - The tracking window for promotional activity is 30 days, starting from the user's first valid click. After account registration, the attribution relationship will be determined by the system based on invitation code information and other relevant technical identification methods.
 - If new users complete their first payment within the tracking window, the order shall be attributed to that Affiliate Member.
 - First payments occurring after the tracking window shall not be attributed for commission purposes.
@@ -103,42 +122,52 @@ The statistical period for Monthly Performance Incentives is from 00:00 on the f
 - The system will use technical means such as email addresses and device fingerprints to distinguish between new and existing users, preventing duplicate calculations.
 
 ### 3.4 Commission Billing Scope
-Only orders for paid membership services (VIP, SVIP) purchased by users are included in the commission billing scope. Orders for non-membership paid services or refund orders are excluded from the commission billing scope.
+
+Only orders for paid membership services (Pro, Premium) purchased by users are included in the commission billing scope. Orders for non-membership paid services or refund orders are excluded from the commission billing scope.
 
 ## 4. Promotional Standards and Compliance Requirements
 
 ### 4.1 Lawful Promotional Channels
+
 Affiliate Members may promote AcmeVPN services through the following lawful channels:
 
 #### 4.1.1 Online Digital Channels
+
 - **Personal Websites/Blogs**: Must be legal personal websites or blog platforms.
 - **Social Media and Content Platforms**: YouTube, Instagram, TikTok, Facebook, X, Telegram, Zhihu, Bilibili, Weibo, Douyin, Xiaohongshu, WeChat, and other mainstream platforms.
 - **Email Marketing**: Must strictly comply with anti-spam laws and regulations, and may only be sent to users who have provided explicit consent.
 
 #### 4.1.2 Offline Promotional Channels
+
 - **Offline Events**: Conferences, exhibitions, technical sharing sessions, and other legitimate commercial activities.
 - **Word-of-Mouth Promotion**: Authentic recommendations to friends and family are permitted, but misleading advertising is prohibited.
 
 #### 4.1.3 Other Channels
+
 Other channels that comply with laws and regulations and have obtained prior written approval from AcmeVPN.
 
 ### 4.2 Promotional Content Requirements
 
 #### 4.2.1 Basic Requirements
+
 - **Authenticity**: All promotional content must be truthful and accurate, without any exaggerated, misleading, or false information.
 - **Identity Disclosure**: Affiliate Members should clearly disclose their affiliate promotional status and may not impersonate AcmeVPN official personnel.
 - **Service Description**: Affiliate Members must not promise or claim functions or effects beyond AcmeVPN's actual service scope.
 - **Authorized Use**: All brand names, trademarks, logos, and other elements used in promotional materials must be authorized in writing by AcmeVPN in advance.
 
 #### 4.2.2 Prohibited Content
+
 Promotional content must not include:
+
 - False statements regarding product features, performance metrics, or service commitments.
 - Misleading information about free offers or discounts.
 - Expressions or statements that may trigger legal or compliance risks.
 - Any content involving violations of laws and regulations or that may lead to legal risks.
 
 #### 4.3 Data Protection and Privacy Compliance
+
 Affiliate Members must strictly comply with data protection laws and regulations during promotion, including:
+
 - User Consent: Obtain clear and informed user consent prior to collecting personal data and refrain from coercing or inducing users to provide information.
 - Lawful Processing: Strictly comply with applicable data protection regulations such as GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act).
 - Information Security: Properly safeguard user data and prevent leaks.
@@ -150,24 +179,31 @@ Affiliate Members must strictly comply with data protection laws and regulations
 ### 4.4 Prohibited Promotional Conduct
 
 #### 4.4.1 Malicious Promotional Conduct
+
 Affiliate Members must not:
+
 - Promote via spam emails, malware, virus distribution, or other means.
 - Place promotions on adult, illegal, violent, gambling, or other harmful-content websites.
 - Use false identities or forged materials for promotional purposes.
 - Self-click or organize others to click on affiliate links to generate fraudulent transactions.
 
 #### 4.4.2 Self-Referral Prohibition
+
 - Affiliate Members are strictly prohibited from purchasing AcmeVPN services by using their own Exclusive Affiliate Links.
 - The system will monitor abnormal purchasing behaviors through technical means and may terminate the cooperation immediately and recover related commissions upon detection.
 
 #### 4.4.3 Search Engine Advertising Restrictions
+
 Affiliate Members are prohibited from placing paid advertisements on advertising platforms (including but not limited to Google Ads, Bing Ads) and social media platforms (including but not limited to Instagram and TikTok) that contain the following keywords:
+
 - Brand terms: AcmeVPN, Acme VPN, AcmeVPN official website, etc.
 - Competitive terms: AcmeVPN + deals, AcmeVPN + discounts, AcmeVPN + official, etc.
 - Misleading terms: AcmeVPN official agent, AcmeVPN authorized dealer, etc.
 
 #### 4.4.4 Competitor Promotion Restrictions
+
 Affiliate Members must comply with the following regulations when promoting AcmeVPN services:
+
 - Concurrent Promotion Restrictions: During the period of promoting AcmeVPN services, Affiliate Members must not promote other VPNs, node providers, or other directly competing products, nor may they promote proxy services, encryption software, or other related products that overlap with VPN functions.
 - Promotional Content Restrictions: Affiliate Members must not directly compare AcmeVPN with other VPN services in promotional content, or disparage or make misleading comparison of competing products.
 
@@ -177,7 +213,9 @@ Historical Content: Promotional content for competing products published prior t
 Special Authorization: Exceptions apply for special circumstances with written authorization from AcmeVPN.
 
 #### 4.4.5 Other Prohibited Conduct
+
 Affiliate Members must not:
+
 - Impersonate AcmeVPN official personnel (including but not limited to customer service, technical support, sales representatives, agents, etc.).
 - Modify, crack, or reverse-engineer AcmeVPN software without authorization.
 - Promote illegal content or use AcmeVPN services for illegal activities.
@@ -186,33 +224,41 @@ Affiliate Members must not:
 ## 5. Commission Settlement and Withdrawal
 
 ### 5.1 Commission Confirmation Mechanism
+
 To ensure transaction security and properly handle refunds and other special situations, AcmeVPN confirms commissions under the following mechanism:
+
 - Each order’s commission shall be confirmed 31 calendar days after the Valid Order generation date.
 - If a refund, chargeback, or transaction dispute occurs during the confirmation period, the related commission will be automatically deducted.
 - Only confirmed commissions are eligible for withdrawal.
 
 ### 5.2 Commission Clawback Mechanism (Chargeback)
+
 AcmeVPN maintains a commission clawback mechanism to address situations such as credit card chargebacks, fraudulent transactions, and disputed transactions.
 
 **Chargeback situations include**:
+
 - **Credit Card Chargebacks**: Credit card transaction disputes or reversals initiated by users through their banks.
 - **Fraudulent Transactions**: Transactions confirmed as card theft, identity theft, etc.
 - **Disputed Refunds**: Transaction disputes initiated by users through third-party payment platforms.
 - **Bank Document Requests**: Requests from banks or payment institutions for transaction documents.
 
 **Processing Procedure**:
+
 - **Dispute Period Management**: If chargebacks or transaction disputes occur, the related commissions will be immediately frozen and cannot be withdrawn until the dispute is resolved.
 - **Final Processing**: Commissions will be permanently deducted if the dispute is lost, or recredited to the account balance if the dispute is won.
 - **Fee Responsibility**: Dispute processing fees and bank charges incurred due to chargebacks shall be borne by the corresponding Affiliate Member.
-**Special Situations**: If an Affiliate Member's account balance is insufficient to cover the deducted commissions, AcmeVPN may deduct from future commissions. Multiple consecutive chargebacks may result in suspension or termination of the Affiliate Member’s eligibility. Affiliate Members must provide promotional evidence to assist in dispute resolution.
+  **Special Situations**: If an Affiliate Member's account balance is insufficient to cover the deducted commissions, AcmeVPN may deduct from future commissions. Multiple consecutive chargebacks may result in suspension or termination of the Affiliate Member’s eligibility. Affiliate Members must provide promotional evidence to assist in dispute resolution.
 
 ### 5.3 Withdrawal Cycle and Threshold
+
 - The 1st of each month in Singapore Standard Time serves as the commission settlement statistics date. Withdrawal functionality is temporarily unavailable on this day.
 - Commissions must accumulate to a minimum threshold of USD 50 or the equivalent in other currencies before a withdrawal application can be submitted. Amounts below the threshold will remain in the Affiliate Member's account and may be withdrawn once the threshold is met in a subsequent settlement.
 - Commissions are calculated in US Dollars (USD). For payment in RMB or other currencies, the exchange rate applied during settlement will be based on real-time exchange rates provided by Google (reference: https://www.google.com/finance/markets/currencies). The exchange rate shall be the real-time rate on the actual payment date, and no separate notification will be provided.
 
 ### 5.4 Withdrawal Methods
+
 AcmeVPN supports the following withdrawal methods:
+
 - Bank Transfer: Requires complete bank account information including account holder name, account number, bank name, and branch information. For bank accounts outside mainland China, SWIFT Code or IBAN information may be required, subject to withdrawal page requirements.
 - USDT: Supports ERC20 and TRC20 networks. USDT is calculated at a 1:1 ratio with USD.
 - Alipay Password-Protected Lucky Money: AcmeVPN bears no responsibility for situations not caused by AcmeVPN such as password leaks, lucky money theft, or failure to claim lucky money within 24 hours after issuance.
@@ -221,10 +267,13 @@ AcmeVPN supports the following withdrawal methods:
 Note: Some withdrawal methods may incur third-party handling fees or additional processing costs, which shall be borne by Affiliate Members.
 
 ### 5.5 Withdrawal Timeline
+
 After an Affiliate Member requests a withdrawal, we will process the withdrawal within 7 business days. Should unforeseen circumstances prevent timely payment, we will notify the Affiliate Member in advance and explain the reasons.
 
 ### 5.6 Fee Responsibility
+
 All fees incurred during the withdrawal process shall be borne by the Affiliate Member, including but not limited to:
+
 - Bank transfer fees such as cross-border transfer and wire transfer fees.
 - Payment platform fees such as transaction handling fees and channel fees for password-protected lucky money charged by third-party payment platforms like Alipay.
 - Blockchain network fees such as miner fees and gas fees for cryptocurrency withdrawals.
@@ -236,21 +285,25 @@ Note: Handling fees will be deducted directly when withdrawing commissions. The 
 ### 5.7 Withdrawal Failure Handling
 
 #### 5.7.1 Common Reasons
+
 - Incorrect or invalid payment account information.
 - Payment bank or platform system failures.
 - Cross-border payments subject to foreign exchange controls or policy restrictions.
 - Payment accounts frozen or restricted.
 
 #### 5.7.2 Processing Procedure
+
 - **Notification Mechanism**: Affiliate Members will be notified via email within 72 hours after a withdrawal failure.
 - **Information Update**: Affiliate Members should provide updated payment information within 30 days of receiving the notification if required.
 - **Fee Responsibility**: Affiliate Members shall bear any related handling fees incurred due to withdrawal failures resulting from their own actions.
 
 #### 5.7.3 Timeout Handling
+
 - **Balance Return**: Commissions from failed withdrawals will be returned to the Affiliate Member's account balance, and the Affiliate Member may reapply for withdrawal during the next settlement cycle.
 - **Fee Deduction**: Related handling fees will be deducted from the returned commission balance.
 
 ### 5.8 Tax Treatment
+
 Affiliate Members are solely responsible for any tax obligations arising from commission income. AcmeVPN does not withhold taxes on behalf of Affiliate Members.
 
 ## 6. Promotional Materials and Technical Support
@@ -258,7 +311,9 @@ Affiliate Members are solely responsible for any tax obligations arising from co
 ### 6.1 Official Promotional Materials
 
 #### 6.1.1 Material Types
+
 AcmeVPN will provide Affiliate Members with a wide range of promotional materials, including:
+
 - **Banner Advertisement Images**: Horizontal banner advertisements in multiple sizes.
 - **Text Links and Buttons**: Text links and CTA button codes in various styles.
 - **Product Introduction Copy**: Product feature introductions and marketing copy templates of different lengths.
@@ -267,35 +322,44 @@ AcmeVPN will provide Affiliate Members with a wide range of promotional material
 - **Social Media Materials**: Image and text materials suitable for major social platforms.
 
 #### 6.1.2 Usage Standards
+
 When using materials, Affiliate Members must ensure the integrity of the materials. Core content, brand logos, or product information must not be altered. Image resolution or video clarity must not be reduced. Expired promotional information or product feature introductions must be updated promptly. The materials must not be used for other commercial purposes.
 
 #### 6.1.3 Updates and Maintenance
+
 - **Regular Updates**: AcmeVPN will regularly update promotional materials based on product feature upgrades, holiday promotions, and other circumstances.
 - **Material Notifications**: All Affiliate Members will be notified via email when new materials are released.
 - **Feedback Mechanism**: Affiliate Members may provide feedback on material needs or usage issues via email.
 - **Version Management**: Expired materials will be promptly removed. Affiliate Members should regularly check and update the promotional materials they use.
 
 ### 6.2 Support and Dashboard Management
+
 AcmeVPN will provide comprehensive support to Affiliate Members to help optimize their promotional performance, including a real-time analytics dashboard, detailed usage guides for affiliate links, promotional strategy recommendations from dedicated affiliate managers, and periodic sharing of industry best practices.
 
 ### 6.3 Promotional Code Management
 
 #### 6.3.1 Promotional Code Types
+
 AcmeVPN provides multiple promotional codes to drive promotion, including:
+
 - General promotional codes: Standard discount codes applicable to all new users.
 - Limited-time promotional codes: Limited-time discount codes for special holidays or marketing activities.
 - Targeted promotional codes: Targeted discount codes for particular user groups or promotional channels.
-Additionally, AcmeVPN also provides exclusive promotional code support for top-performing Affiliate Members to enhance promotional effectiveness.
+  Additionally, AcmeVPN also provides exclusive promotional code support for top-performing Affiliate Members to enhance promotional effectiveness.
 
 #### 6.3.2 Application and Allocation of Exclusive Promotional Codes
+
 Affiliate Members with monthly Valid Orders of 200 or more may apply for exclusive promotional codes by emailing AcmeVPN at support@acmevpn.io and describing their promotional plan and expected results. AcmeVPN will review the applications and respond based on promotional capability, historical performance, and market demand within 5 business days of receipt.
 
 #### 6.3.3 Promotional Code Usage Standards
+
 - Promotional codes are limited to the Affiliate Member's personal promotional use and may not be transferred, sold, or shared with other Affiliate Members.
 - All promotional codes have explicit expiration dates and will automatically become invalid upon expiration. Affiliate Members are advised to monitor their codes promptly.
 
 #### 6.3.4 Violation Handling
+
 Promotional code privileges will be revoked if the Affiliate Member engages in any of the following conduct:
+
 - Sharing or selling promotional codes through unauthorized channels.
 - Maliciously hoarding promotional codes that undermine other Affiliate Members' interests.
 - Applying for promotional codes through false information.
@@ -304,9 +368,11 @@ Promotional code privileges will be revoked if the Affiliate Member engages in a
 ## 7. Account Management and Data Statistics
 
 ### 7.1 Affiliate Management Dashboard
+
 Each Affiliate Member will receive a dedicated management dashboard where they can view promotional performance, earnings status and related records, commission withdrawal and payment status, etc. We may adjust dashboard functions, display content, or statistical metrics according to operational needs. Actual interface functionality shall prevail.
 
 ### 7.2 Data Accuracy
+
 - All data statistics shall be based on AcmeVPN system records and are typically synchronized and updated within 24 hours.
 - Should any data be disputed, Affiliate Members must submit review requests within 30 days of data generation. Failure to do so will be deemed acceptance of the system records.
 - AcmeVPN reserves the right to review and adjust abnormal data based on system records.
@@ -314,43 +380,53 @@ Each Affiliate Member will receive a dedicated management dashboard where they c
 ## 8. Violation Penalties and Account Termination
 
 ### 8.1 Violation Penalty Mechanism
+
 AcmeVPN will impose the following corresponding penalty measures based on the nature, severity, and impact scope of the violation:
 
 #### 8.1.1 Minor Violations
+
 - Promotional content contains minor misleading information or violates promotional content standards.
 - Failure to update invalid affiliate links or information promptly.
-**Penalty**: Written warning with a deadline for rectification.
+  **Penalty**: Written warning with a deadline for rectification.
 
 #### 8.1.2 Moderate Violations
+
 - Committing 3 or more minor violations, or failing to rectify after receiving warnings.
 - Causing a negative impact on AcmeVPN brand image.
 - Promotional content containing severe falsehoods or misleading information.
-**Penalty**: Account suspension for 7-30 days, with no new commissions generated during the suspension period.
+  **Penalty**: Account suspension for 7-30 days, with no new commissions generated during the suspension period.
 
 #### 8.1.3 Serious Violations
+
 - Engaging in prohibited promotional conduct explicitly listed in Article 4.4 of these Terms.
 - Malicious fraud, data forgery, or other conduct damaging AcmeVPN's interests.
 - Organized intentional violations or malicious conduct to damage AcmeVPN's reputation in collusion with others.
 - Serious violations of laws, regulations or these Terms.
-**Penalty**: Immediate permanent termination of cooperation, forfeiture of all unwithdrawn commissions, and reservation of AcmeVPN’s rights to pursue legal remedies.
+  **Penalty**: Immediate permanent termination of cooperation, forfeiture of all unwithdrawn commissions, and reservation of AcmeVPN’s rights to pursue legal remedies.
 
 ### 8.2 Account Termination
 
 #### 8.2.1 Termination Conditions
+
 An affiliate account may be terminated in the following circumstances:
+
 - The Affiliate Member engaging in a serious violation as described in Article 8.1.3 of these Terms.
 - The Affiliate Member voluntarily requests to withdraw.
 - AcmeVPN adjusts its business operations or terminates the Affiliate Program.
 - If users registered via an Affiliate Member's Exclusive Affiliate Link have refunds or fraud incidents totaling 3 or more times within 30 days, or if the refund rate exceeds 20% during the period, AcmeVPN reserves the right to suspend or terminate that affiliate account depending on circumstances.
 
 #### 8.2.2 Notification and Settlement
+
 - AcmeVPN will notify Affiliate Members via email prior to the termination. Upon account termination, Affiliate Members should immediately cease all promotional activities.
 - If termination is not due to violations, confirmed but unwithdrawn commissions may be withdrawn according to settlement rules, but commissions below the minimum withdrawal threshold will not be paid.
 - If termination is due to violations, related commissions will not be paid.
 
 ### 8.3 Compensation and Liability
+
 #### 8.3.1 Scope of Compensation
+
 If an Affiliate Member's violations cause losses to AcmeVPN, the Affiliate Member shall be liable for compensation, including but not limited to:
+
 - **Direct Economic Losses**: Financial losses directly caused by violations, such as false commissions, malicious refunds, etc.
 - **Brand Reputation Losses**: Reasonable expenses incurred by AcmeVPN to eliminate negative impacts on its brand image resulting from improper promotional activities.
 - **Legal and Compliance Expenses**: Costs related to attorney fees, litigation, mediation, etc.
@@ -358,57 +434,72 @@ If an Affiliate Member's violations cause losses to AcmeVPN, the Affiliate Membe
 - **Third-Party Claims and Mediation Fees**: Fees associated with third-party claims against AcmeVPN or mediation expenses due to Affiliate Member's violations.
 
 #### 8.3.2 Methods of Implementation
+
 AcmeVPN will prioritize deduction of compensation amounts from the Affiliate Member's account balance or future commissions. Should such funds remain insufficient to cover compensation, AcmeVPN reserves the right to pursue additional compensation through legal channels.
 
 #### 8.3.3 Exemption Circumstances
+
 Affiliate Members may be exempt from compensation liability where losses are caused by force majeure, AcmeVPN system failures or technical problems, or with the explicit authorization of AcmeVPN.
 
 ## 9. Intellectual Property and Trademark Usage
 
 ### 9.1 Ownership of Intellectual Property
+
 AcmeVPN's trademarks, logos, software, product names, technologies, and all related intellectual property rights belong to AcmeVPN. Affiliate Members are granted limited usage rights solely for authorized promotional activities.
 
 ### 9.2 Usage Standards
+
 - Use of AcmeVPN trademarks is limited to lawful promotional purposes.
 - Affiliate Members must not register domain names containing "AcmeVPN" or related terms.
 - Affiliate Members must not use AcmeVPN trademarks in bidding advertisements or in misleading expressions.
 - Affiliate Members must comply with AcmeVPN brand usage guidelines when using trademarks.
 
 ### 9.3 Infringement Handling
+
 If an Affiliate Member is found to use AcmeVPN trademarks without authorization or otherwise infringe intellectual property, AcmeVPN reserves the right to immediately terminate cooperation and take legal action, retaining the right to pursue liability for the infringement.
 
 ## 10. Confidentiality
 
 ### 10.1 Confidentiality Obligations
+
 Affiliate Members shall maintain the confidentiality of non-public information obtained during cooperation. The confidential information includes but is not limited to:
+
 - AcmeVPN's business strategies, pricing strategies, marketing strategies, and promotional plans.
 - Commission policies, commission structures, and internal operational data of the Affiliate Program.
 - User and partner information.
 - Other information explicitly marked as confidential.
 
 ### 10.2 Confidentiality Period
+
 Confidentiality obligations shall take effect from the date Affiliate Members obtain the information and shall remain in force for 3 years after the termination of the affiliate relationship.
 
 ## 11. Terms Modification, Dispute Resolution, and Governing Law
 
 ### 11.1 Terms Modification
+
 AcmeVPN may modify these Terms according to business or legal changes and notify Affiliate Members through the following means:
+
 - Email notification.
 - Publication on AcmeVPN’s official website.
 
 Material changes will be notified 30 days in advance. Affiliate Members who continue participating in the Affiliate Program after the notification period shall be deemed to have accepted the modified Terms. Affiliate Members who disagree with modifications may apply to withdraw from the Affiliate Program within the notification period, and AcmeVPN will settle confirmed commissions in accordance with the applicable rules.
 
 ### 11.2 Dispute Resolution and Governing Law
+
 #### 11.2.1 Filing a Dispute
+
 Affiliate Members must file disputes to AcmeVPN in writing within 60 days of the dispute’s occurrence. Disputes concerning commission calculations and withdrawals must be filed within 30 days after the relevant commission data is generated. Account termination disputes must be filed within 15 days of receiving the termination notification. Disputes filed after these deadlines will not be accepted unless there is reasonable cause.
 
 #### 11.2.2 Resolution Procedures
+
 After dispute filing, the parties shall first attempt to resolve it through amicable negotiation. Should negotiation fail, either party may apply for third-party mediation within 60 days. If mediation proves unsuccessful, the dispute shall be submitted to courts with exclusive jurisdiction in the British Virgin Islands, unless otherwise required by mandatory law in the Affiliate Member’s country or region.
 
 #### 11.2.3 Burden of Proof
+
 The party that files the dispute shall bear the burden of producing sufficient evidence to support its claim. AcmeVPN’s system record data shall have primary evidentiary weight.
 
 ### 11.3 Governing Law
+
 - These Terms and all rights and obligations arising from or related to the Affiliate Program shall be governed by and construed under the laws of the British Virgin Islands, except where mandatory laws in the Affiliate Member's country or region apply.
 - Affiliate Members acknowledge and agree that dispute resolution provisions shall have equal force and effect with core terms such as commissions, penalty provisions for violations, and the validity of such provisions shall not be affected by the method of dispute resolution.
 
@@ -421,12 +512,15 @@ The party that files the dispute shall bear the burden of producing sufficient e
 ## 13. Other Terms
 
 ### 13.1 Severability
+
 If any provision of these Terms is deemed invalid or unenforceable, such provision shall be deemed severable and shall not affect the validity and enforceability of the remaining provisions.
 
 ### 13.2 Entire Agreement
+
 These Terms constitute the entire legal agreement between AcmeVPN and Affiliate Members with respect to affiliate marketing cooperation, effective as of the date when the Affiliate Members successfully join the program, and supersede all prior oral or written agreements between the parties.
 
 ### 13.3 Final Interpretation Rights
+
 To the extent permitted by law, AcmeVPN reserves the final right to interpret these Terms.
 
 **Thank you for your interest in the AcmeVPN Affiliate Marketing Program. We look forward to establishing a long-term, mutually beneficial cooperation with you!**
