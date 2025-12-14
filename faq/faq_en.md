@@ -231,7 +231,7 @@ AcmeVPN currently does not support changing registered email addresses. Email is
 
 Yes. You can log in and use the same AcmeVPN account on multiple devices simultaneously. The number of supported devices depends on your membership level:
 
-- **Standard Membership**: 1 desktop device + 1 mobile device;
+- **Standard Membership**: 1 mobile device;
 - **Pro Membership**: 2 desktop devices + 2 mobile devices;
 - **Premium Membership**: 8 devices (no device type distinction).
 
@@ -355,15 +355,17 @@ Whether you will be charged again after purchasing AcmeVPN membership and making
 ### 4.6 What Payment Methods Are Supported?
 
 AcmeVPN supports multiple payment methods through the Stripe payment platform, and you can choose based on your convenience:
-**Payment methods supporting subscription features:**
 
+**Payment methods supporting subscription features:**
 - Credit/debit cards: Supports mainstream credit and debit cards such as Visa, Mastercard, UnionPay, etc. (specific supported card types may vary by region).
-  **Payment methods supporting one-time purchase only:**
+
+**Payment methods supporting one-time purchase only:**
 - WeChat Pay: Direct payment through WeChat account, suitable for users with WeChat wallet balance or linked cards (does not support auto-renewal subscription);
 - Alipay: Complete payment using Alipay account, supports balance, linked bank cards, or Huabei, etc. (does not support auto-renewal subscription).
   **Note:**
   If you wish to use auto-renewal subscription features, we recommend selecting credit/debit card payment. WeChat Pay and Alipay can only be used for one-time purchases and cannot set up auto-renewal.
-  **Important reminder:**
+
+**Important reminder:**
   The above payment methods may vary depending on your region. If you encounter issues during payment, you can log in to the AcmeVPN website or app and check the help center for specific supported payment methods, or contact customer support for confirmation.
 
 ### 4.7 How Can I Change or Update Payment Methods If Using Card Payment?
@@ -418,7 +420,7 @@ Cancel through AcmeVPN website:
 
 Important notes:
 
-- After canceling auto-renewal service, you will receive a confirmation notification. Membership benefits remain available until the end of the current term;
+- After canceling auto-renewal service, membership benefits remain available until the end of the current term;
 - If the above methods are ineffective, you can contact customer support through the help center on the AcmeVPN website or app.
 
 ### 4.10 Can Pro Membership Be Upgraded to Premium Membership?
@@ -642,34 +644,38 @@ In some network environments, there may be restrictions. We provide the followin
 - **Protocol switching**: If the app supports it, you can try switching to different connection protocols;
 - **Network environments**:
   - **School/corporate networks**: Some institutional networks may block VPN traffic—you can try using mobile data connections;
-  - **Public WiFi**: In public places such as cafes and airports, VPNs can provide additional security protection;
+  - **Public Wi-Fi**: In public places such as cafes and airports, VPNs can provide additional security protection;
 - **Technical support**: If you encounter persistent issues in specific network environments, you can contact technical support for targeted advice;
 - **Legal use**: Please ensure VPN usage complies with local laws and network usage policies in any environment.
 
 ### 5.7 What Should I Do About Proxy Conflicts?
 
 If you encounter proxy conflict issues while using AcmeVPN, you can try the following solutions, applicable to iOS, Android, and desktop devices:
-Check proxy settings:
 
+Check proxy settings:
 - Confirm whether your device has multiple proxy services enabled simultaneously. Your device may be using a proxy through an app or at the operating system level while the VPN is also running, which may cause conflicts. Ensure only one proxy is enabled in your device's network settings and close other unnecessary proxies;
 - iOS: Go to "Settings" > "Wi-Fi" > Select current network > Scroll down to "Configure Proxy", ensure the proxy is set to "Off" or correctly configured;
 - Android: Go to "Settings" > "Wi-Fi" > Long press the currently connected network > Select "Modify Network" > Expand "Advanced Options", ensure the proxy is set to "None" or correctly configured;
 - Windows: Check proxy settings in "Control Panel" > "Network and Internet" > "Internet Options" > "Connections" > "LAN Settings";
 - macOS: Go to "System Preferences" > "Network" > Select current network connection > "Advanced" > "Proxies" to check and adjust settings.
-  Disable system proxy:
+
+ Disable system proxy:
 - The operating system may have automatically enabled a proxy—disabling the system proxy can resolve conflict issues. After disabling the system proxy, reconnect the VPN and see the result;
 - iOS and Android: If your device has any automatic proxy settings, ensure they are disabled or set to manual to avoid system-level proxy conflicts with VPN;
 - Windows: Disable "Automatically Detect Settings" and uncheck proxy settings in "LAN Settings";
 - macOS: Disable all unnecessary proxies in "Network" settings.
   Check browser proxy settings:
 - Browsers may have separate proxy configurations—check the proxy settings in your browser, especially in Chrome, Firefox, and Safari, to ensure they don't have proxy settings enabled that conflict with the VPN.
-  Disable app-level proxies:
+  
+Disable app-level proxies:
 - If you have other apps running (such as Shadowsocks, V2Ray, etc.), they may conflict with the VPN. Try temporarily disabling these apps to see if it resolves the issue.
   Check firewall or security software:
 - Some firewalls or security software may enable proxies for traffic scanning—check whether your device has any firewall or security software proxy functions enabled and disable them.
-  Restart network connection:
+  
+Restart network connection:
 - After changing proxy settings, try disconnecting and reconnecting, or switch networks, or restart the device to ensure new settings take effect.
-  Contact customer support: If the above methods do not resolve the issue, you can contact customer support through the help center on the AcmeVPN website or app, and we can provide more detailed troubleshooting and solutions.
+
+Contact customer support: If the above methods do not resolve the issue, you can contact customer support through the help center on the AcmeVPN website or app, and we can provide more detailed troubleshooting and solutions.
 
 ### 5.8 Can Old Versions of AcmeVPN App Continue to Be Used?
 
@@ -909,7 +915,7 @@ VPN connections may disconnect unexpectedly for various reasons:
 
 - **Common causes**:
   - **Server overload**: Current server has too many users, causing instability;
-  - **Network environment changes**: Weak WiFi signal, mobile data network switching;
+  - **Network environment changes**: Weak Wi-Fi signal, mobile data network switching;
   - **Firewall interference**: System firewall or security software blocking connections;
   - **Network protocol conflicts**: Conflicts with other network services;
   - **Device power saving mode**: System automatically closes background apps to save power.
@@ -1190,7 +1196,7 @@ AcmeVPN currently does not provide official router configuration support:
   - **User experience priority**: Router configuration process is complex and not user-friendly for ordinary users;
   - **Technical support challenges**: Different router brands and firmware vary greatly, making it difficult to provide standardized support;
   - **Performance and stability**: Router hardware limitations may affect VPN connection speed and stability;
-  - **Complex troubleshooting**: Network-level problem diagnosis is more difficult, affecting customer support efficiency.
+  - **Complex troubleshooting**: Network-level problem diagnosis is challenging, and locating the root cause has a high degree of difficulty.
 - **Future development plans**:
   - We are closely monitoring user feedback regarding router support needs and may consider launching router configuration tutorials or dedicated solutions in the future. The specific support timeline will be determined based on technical maturity and market demand.
 - **Current recommendations**:
@@ -1268,9 +1274,9 @@ Yes. Any user who registers successfully for the first time is entitled to a 3-d
 
 We have a referral reward program:
 
-- **Referral rewards**: When the referred user makes their first Pro purchase, you receive 1 month of Standard Membership; when their first purchase is Premium, you receive 2 months, both calculated in natural months;
+- **Referral rewards**: When the referred user makes their first Pro Membership purchase, the referrer receives 1 month of Standard Membership; when their first purchase is Premium Membership, the referrer receives 2 months of Standard Membership；
 - **Reward benefits**: Referral Reward Standard Membership enjoys Standard Membership services (1 desktop device + 1 mobile device);
-- **Validity period calculation**: The gifted time is calculated from the effective time of the referred user's first paid membership and is not affected by later upgrades or downgrades;
+- **Validity period calculation**: The complimentary membership duration is calculated in calendar months, starting from the moment the referred user's first paid membership becomes active, irrespective of any subsequent upgrades or downgrades.
 - **Usage priority**: Referral Reward Standard Membership is managed according to membership priority rules (see Membership Terms of Service);
 - **Specific rules**: For detailed referral rules and reward standards, please refer to the invite friends page within the app.
 
@@ -1310,7 +1316,6 @@ It is recommended to contact us through the help center on the AcmeVPN website o
 - **Connection issues**: Technical issues that remain unresolved after trying solutions in the FAQ;
 - **Service suggestions**: Suggestions and feedback on product features;
 - **Complaints and reports**: Service quality issues or other situations requiring complaints.
-- **Please avoid frequently consulting common questions already answered in the FAQ, so we can provide better service to users who genuinely need assistance.**
 
 ### 8.6 What Languages Does Customer Support Support?
 
